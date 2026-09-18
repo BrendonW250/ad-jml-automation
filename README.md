@@ -1,6 +1,6 @@
 # JML Automation Lab - Active Directory Identity Lifecycle Automation
 
-A hands-on Active Directory lab automating the full **Joiner-Mover-Leaver (JML)** identity lifecycle using PowerShell — built to demonstrate the same identity administration and access governance work performed in real IAM engineering roles.
+A hands-on Active Directory lab automating the full **Joiner-Mover-Leaver (JML)** identity lifecycle using PowerShell built to demonstrate the same identity administration and access governance work performed in real IAM engineering roles.
 
 ## The Problem
 
