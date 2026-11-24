@@ -79,5 +79,5 @@ See `docs/screenshots/` for:
 
 ---
 
-Built by [BrendonW250] as part of a hands-on IAM engineering skill-building portfolio.
+Built by [BrendonW250] 
 
